@@ -288,7 +288,6 @@ export default function LeaderboardScreen() {
             >
                 <StatusBar
                     barStyle="light-content"
-                    backgroundColor="#09090B"
                 />
 
                 <View
@@ -392,7 +391,6 @@ export default function LeaderboardScreen() {
         >
             <StatusBar
                 barStyle="light-content"
-                backgroundColor="#09090B"
             />
 
             {/* ==================================================

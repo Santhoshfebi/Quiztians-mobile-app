@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204389149679",
+    "project_id": "quiztians-dda95",
+    "storage_bucket": "quiztians-dda95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204389149679:android:6424a793f6b3050497241a",
+        "android_client_info": {
+          "package_name": "com.quiztians.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGExX5C0jpsStOfh3kBzLip64RPQkI9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

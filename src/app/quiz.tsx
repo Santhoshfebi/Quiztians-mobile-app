@@ -157,8 +157,8 @@ export default function QuizScreen() {
         );
 
     const appStateRef =
-        useRef<AppStateStatus>(
-            AppState.currentState
+        useRef<AppStateStatus | null>(
+            (AppState.currentState as AppStateStatus | null) ?? null
         );
 
     const hasLeftActiveRef =
@@ -1070,7 +1070,6 @@ export default function QuizScreen() {
         <SafeAreaView style={styles.safeArea}>
             <StatusBar
                 barStyle="light-content"
-                backgroundColor="#09090B"
             />
 
             {/* ====================================================

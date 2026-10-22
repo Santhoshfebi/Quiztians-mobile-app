@@ -35,6 +35,9 @@ yarn-error.*
 .env.local
 .env.*.local
 
+# Firebase FCM private service account
+firebase-service-account.json
+
 # typescript
 *.tsbuildinfo
 

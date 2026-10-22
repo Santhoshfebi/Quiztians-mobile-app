@@ -477,7 +477,6 @@ export default function ReviewScreen() {
         >
             <StatusBar
                 barStyle="light-content"
-                backgroundColor="#09090B"
             />
 
             {/* ====================================================
@@ -1129,7 +1128,6 @@ function ReviewError({
         >
             <StatusBar
                 barStyle="light-content"
-                backgroundColor="#09090B"
             />
 
             <View

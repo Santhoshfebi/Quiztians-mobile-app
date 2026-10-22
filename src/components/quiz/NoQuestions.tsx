@@ -34,8 +34,7 @@ export default function NoQuestions({
     return (
         <SafeAreaView style={styles.screen}>
             <StatusBar
-                barStyle="light-content"
-                backgroundColor="#09090B"
+                barStyle="light-content"               
             />
 
             {/* BACKGROUND GLOW */}

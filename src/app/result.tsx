@@ -505,7 +505,6 @@ export default function ResultScreen() {
         >
             <StatusBar
                 barStyle="light-content"
-                backgroundColor="#09090B"
             />
 
             {/* BACKGROUND */}

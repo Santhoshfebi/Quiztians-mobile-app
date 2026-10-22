@@ -221,7 +221,6 @@ export default function PreviousResultScreen() {
         <SafeAreaView style={styles.safeArea}>
             <StatusBar
                 barStyle="light-content"
-                backgroundColor={COLORS.background}
             />
 
             {/* ====================================================

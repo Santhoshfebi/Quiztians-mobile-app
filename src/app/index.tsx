@@ -123,9 +123,6 @@ export default function HomeScreen() {
       >
         <StatusBar
           barStyle="light-content"
-          backgroundColor={
-            COLORS.background
-          }
         />
 
         <View
@@ -170,9 +167,6 @@ export default function HomeScreen() {
       >
         <StatusBar
           barStyle="light-content"
-          backgroundColor={
-            COLORS.background
-          }
         />
 
         <Image
@@ -233,9 +227,6 @@ export default function HomeScreen() {
     >
       <StatusBar
         barStyle="light-content"
-        backgroundColor={
-          COLORS.background
-        }
       />
 
       {/* ====================================================

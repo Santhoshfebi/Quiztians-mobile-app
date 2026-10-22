@@ -423,9 +423,6 @@ export default function InstructionsScreen() {
         >
             <StatusBar
                 barStyle="light-content"
-                backgroundColor={
-                    COLORS.background
-                }
             />
 
             {/* ====================================================
@@ -1165,9 +1162,6 @@ function NoQuizData({
         >
             <StatusBar
                 barStyle="light-content"
-                backgroundColor={
-                    COLORS.background
-                }
             />
 
             <View
@@ -2197,8 +2191,7 @@ const styles =
         ====================================================== */
 
         countdownOverlay: {
-            ...StyleSheet.absoluteFillObject,
-
+            ...StyleSheet.absoluteFill,
             zIndex: 100,
 
             backgroundColor:

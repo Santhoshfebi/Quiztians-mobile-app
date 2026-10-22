@@ -284,7 +284,6 @@ export default function JoinQuizScreen() {
             <SafeAreaView style={styles.centerScreen}>
                 <StatusBar
                     barStyle="light-content"
-                    backgroundColor={COLORS.background}
                 />
 
                 <ActivityIndicator
@@ -308,7 +307,6 @@ export default function JoinQuizScreen() {
             <SafeAreaView style={styles.centerScreen}>
                 <StatusBar
                     barStyle="light-content"
-                    backgroundColor={COLORS.background}
                 />
 
                 <Text style={styles.errorTitle}>
@@ -345,7 +343,6 @@ export default function JoinQuizScreen() {
         <SafeAreaView style={styles.safeArea}>
             <StatusBar
                 barStyle="light-content"
-                backgroundColor={COLORS.background}
             />
 
             {/* ======================================================

@@ -21,7 +21,6 @@ export default function QuizLoading({
         <SafeAreaView style={styles.screen}>
             <StatusBar
                 barStyle="light-content"
-                backgroundColor="#09090B"
             />
 
             {/* BACKGROUND */}
