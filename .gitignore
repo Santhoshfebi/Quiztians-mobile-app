@@ -35,6 +35,10 @@ yarn-error.*
 .env.local
 .env.*.local
 
+# Firebase Android client configuration
+google-services.json
+
+
 # Firebase FCM private service account
 firebase-service-account.json
 
